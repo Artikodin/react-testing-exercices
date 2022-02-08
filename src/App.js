@@ -1,6 +1,6 @@
 import './App.css'
 import Toggle from './1-Toggle'
-import MultiToggle from './MultiToggle'
+import MultiToggle from './2-MultiToggle'
 import HiddenButton from './HiddenButton'
 import DeferedComponent from './DeferedComponent'
 import FormValidation from './FormValidation'
