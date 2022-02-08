@@ -1,5 +1,6 @@
 import './App.css'
 import Toggle from './Toggle'
+import MultiToggle from './MultiToggle'
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
         <Toggle />
       </div>
       <div className='container'>
-        <Toggle />
+        <MultiToggle />
       </div>
       <div className='container'>
         <Toggle />
