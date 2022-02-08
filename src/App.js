@@ -3,7 +3,7 @@ import Toggle from './1-Toggle'
 import MultiToggle from './2-MultiToggle'
 import HiddenButton from './3-HiddenButton'
 import DeferedComponent from './4-DeferedComponent'
-import FormValidation from './FormValidation'
+import FormValidation from './5-FormValidation'
 
 function App() {
   return (
