@@ -2,6 +2,7 @@ import './App.css'
 import Toggle from './Toggle'
 import MultiToggle from './MultiToggle'
 import HiddenButton from './HiddenButton'
+import DeferedComponent from './DeferedComponent'
 
 function App() {
   return (
@@ -16,7 +17,7 @@ function App() {
         <HiddenButton />
       </div>
       <div className='container'>
-        <Toggle />
+        <DeferedComponent />
       </div>
       <div className='container'>
         <Toggle />
