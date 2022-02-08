@@ -1,5 +1,5 @@
 import './App.css'
-import Toggle from './Toggle'
+import Toggle from './1-Toggle'
 import MultiToggle from './MultiToggle'
 import HiddenButton from './HiddenButton'
 import DeferedComponent from './DeferedComponent'
