@@ -3,6 +3,7 @@ import Toggle from './Toggle'
 import MultiToggle from './MultiToggle'
 import HiddenButton from './HiddenButton'
 import DeferedComponent from './DeferedComponent'
+import FormValidation from './FormValidation'
 
 function App() {
   return (
@@ -20,7 +21,7 @@ function App() {
         <DeferedComponent />
       </div>
       <div className='container'>
-        <Toggle />
+        <FormValidation />
       </div>
     </div>
   )
