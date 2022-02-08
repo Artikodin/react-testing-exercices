@@ -2,7 +2,7 @@ import './App.css'
 import Toggle from './1-Toggle'
 import MultiToggle from './2-MultiToggle'
 import HiddenButton from './3-HiddenButton'
-import DeferedComponent from './DeferedComponent'
+import DeferedComponent from './4-DeferedComponent'
 import FormValidation from './FormValidation'
 
 function App() {
